@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi 👋, I'm Shwejan Devarakonda, an Information Technology student from Hyderabad, India 🇮🇳. I'm passionate about building practical software using Python, PySpark, AWS, and web technologies. I enjoy backend development, cloud computing, AI, and solving real-world problems through technology. I'm always eager to learn, collaborate, and contribute to meaningful projects.<br><br>🔭 I'm currently working on<br>• Backend Development<br>• Python Projects<br>• PySpark & Big Data<br>• AWS Cloud Projects<br><br>👯 I'm looking to collaborate on<br>• Open Source Projects<br>• Python Applications<br>• Backend Development<br>• Data Engineering Projects<br><br>🤝 I'm looking for help with<br>• Open Source Contributions<br>• System Design<br>• Advanced AWS<br>• Scalable Data Engineering<br><br>🌱 I'm currently learning<br>• Apache Spark (PySpark)<br>• AWS Cloud<br>• Backend Development<br>• Data Engineering<br>• AI & Machine Learning<br><br>💬 Ask me about<br>• Python<br>• PySpark<br>• AWS<br>• IoT Projects<br>• Web Development<br>• Chess<br><br>⚡ Fun fact<br>Competitive chess player who enjoys turning strategy into software solutions.
+
+Hi 👋, I'm **Shwejan Devarakonda**, an IT student from India 🇮🇳 passionate about **Python, PySpark, AWS, Backend Development, and AI**. I enjoy building practical projects, exploring cloud technologies, and solving real-world problems through code.
+
+* 🔭 Working on: Backend Development & Python Projects
+* 🌱 Learning: PySpark, AWS & Data Engineering
+* 👯 Open to: Open Source & Backend Projects
+* 💬 Ask me about: Python, AWS, PySpark, IoT & Chess
+* ⚡ Fun fact: Competitive chess player who loves solving coding challenges.
 
 
 ## 🌐 Socials:
@@ -12,10 +19,7 @@ Hi 👋, I'm Shwejan Devarakonda, an Information Technology student from Hyderab
 ![](https://streak-stats.demolab.com/?user=Shwejan35&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shwejan35&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shwejan35&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
